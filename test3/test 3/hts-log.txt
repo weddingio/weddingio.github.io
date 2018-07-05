@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 26 Jun 2018 21:03:58 at http://www.mantenyogya.com/paketpernikahan/paket-pernikahan-melati/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.mantenyogya.com/paketpernikahan/paket-pernikahan-melati/ -O1 "C:\Users\Nightmare\Documents\ujicoba\test3\test 3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:03:59	Warning: 	Note: due to www.mantenyogya.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+21:06:38	Warning: 	Retry after error -2 (Receive Time Out) at link www.mantenyogya.com/wp-content/themes/excellent/style.css?ver=4.9.6 (from www.mantenyogya.com/paketpernikahan/paket-pernikahan-melati/)
+21:06:47	Error: 	"Not Found" (404) at link www.mantenyogya.com/paketpernikahan/paket-pernikahan-melati/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/en_US/sdk.js)
+21:06:47	Error: 	"Not Found" (404) at link www.mantenyogya.com/paketpernikahan/paket-pernikahan-melati/^([^:/? (from connect.facebook.net/en_US/sdk.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 49 seconds : 62 links scanned, 58 files written (1463343 bytes overall) [1375879 bytes received at 8141 bytes/sec], 264210 bytes transferred using HTTP compression in 3 files, ratio 29%, 4.4 requests per connection
+(2 errors, 2 warnings, 0 messages)
